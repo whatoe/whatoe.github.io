@@ -1,1 +1,1 @@
-# whatoe.githum.io
+# whatoe.github.io
